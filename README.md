@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
--   🌱 I’m currently learning **REACT-JS**
+-   🌱 I’m currently learning **Next-JS**
 
--   👯 I’m looking to for job to start my career in the industry
+-   👯 Aspire for FAANG
 
 -   👨‍💻 All of my projects are available at **[repository](https://github.com/arkajitroy?tab=repositories)**
 
--   📫 How to reach me **arkajitroy1999@gmail.com**
+-   📫 How to reach me **arkajitroy11.official@gmail.com**
 
 <br>
 
