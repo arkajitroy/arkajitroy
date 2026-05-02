@@ -1,34 +1,129 @@
-[![MasterHead](https://enablejavascript.co/wp-content/uploads/2017/01/jstips-header-blog.gif)](https://github.com/arkajitroy)
+<h1 align="center">Hi 👋, I'm Arkajit Roy</h1>
+<h3 align="center">Frontend-leaning Fullstack Engineer • Systems Thinker • Performance Obsessed</h3>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"> I'm Arkajit Roy</h1>
+<p align="center">
+  <a href="mailto:arkajitroy.work@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/arkajitroy">LinkedIn</a> • 
+  <a href="https://github.com/arkajitroy">GitHub</a>
+</p>
 
-<p align="justify">Self-motivated team player with nine years of experience seeking a position as a lead web developer with Next Generation Web Development where I can apply my advanced knowledge of web design with my leadership abilities to meet client needs and exceed their expectations.</p>
+---
 
-## 🙋‍♂️ About Me
+## ⚡ Engineering Summary
 
--   🌱 I’m currently learning **Next-JS**
+- 3.5+ years building **scalable frontend systems** with React & Next.js  
+- Strong focus on **performance, architecture, and developer experience**  
+- Built **framework-agnostic UI libraries**, microfrontends, and AI-powered tools  
+- Improved application performance by **45–60%** across multiple projects :contentReference[oaicite:0]{index=0}  
 
--   👯 Aspire for FAANG
+---
 
--   👨‍💻 All of my projects are available at **[repository](https://github.com/arkajitroy?tab=repositories)**
+## 🧠 What I Actually Work On
 
--   📫 How to reach me **arkajitroy11.official@gmail.com**
+- 🧩 **Microfrontend Architectures** (Module Federation)
+- ⚡ **Performance Optimization** (Core Web Vitals, profiling, Lighthouse)
+- 🏗 **Design Systems & Reusable UI Libraries**
+- 🔌 **API Platforms & Developer Tooling**
+- 🤖 **AI-integrated Applications (RAG, LLM workflows)**
 
-<br>
+---
 
-<h3 align="left">🚀 Languages and Tools</h3>
+## 🚀 Featured Projects
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔹 Turboclient — Real-time API Platform
+> Next.js • WebSockets • Prisma • Zustand • Gemini
 
-<br>
+- Built collaborative API testing platform with real-time sync
+- AI-powered payload generation using Gemini
+- Multi-environment support + dynamic endpoint configs
+- Designed for developer productivity & speed
 
-<p>
-<!-- Most Language Used -->
-<p><img align="left" height="170px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkajitroy&show_icons=true&locale=en&layout=compact" alt="arkajitroy" /></p>
+---
 
-<!-- Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkajitroy&show_icons=true&locale=en" alt="arkajitroy" /></p> -->
+### 🔹 Neuraltrace AI — RAG-based Code Intelligence
+> Next.js • Pinecone • GitHub Webhooks • Inngest
 
-<p><img align="right" height="170px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=arkajitroy&" alt="arkajitroy" /></p>
+- Context-aware code review system using embeddings
+- Semantic search across repositories
+- Automated indexing via async event pipelines
+- Visual analytics dashboard for repo insights
 
+---
+
+### 🔹 Plexhub — AI B2B Communication Platform
+> Next.js • ORPC • Prisma • OpenRouter
+
+- Real-time multi-tenant communication system
+- Threaded messaging + AI summarization
+- Type-safe APIs aligned with OpenAPI
+- Strong auth + workspace isolation
+
+---
+
+## 🏗 Experience Highlights
+
+### Software Engineer @ Capital Numbers (2024–Present)
+
+- Built **12+ reusable UI libraries** in monorepo (Stencil + Lerna)
+- Reduced performance bottlenecks by **45%**
+- Led migration from Next.js → SPA React (60% improvement)
+- Implemented **testing, accessibility, and monitoring pipelines** :contentReference[oaicite:1]{index=1}  
+
+---
+
+### Software Engineer @ Aeonix (2022–2024)
+
+- Improved UI engagement by **25%**
+- Built real-time dashboards with AG-Grid & D3
+- Designed event-driven backend systems (Node.js)
+- Developed real-time notification systems using WebSockets :contentReference[oaicite:2]{index=2}  
+
+---
+
+## 🧰 Tech Stack
+
+### Core
+`React` `Next.js` `TypeScript` `Node.js`
+
+### Architecture & Systems
+`Microfrontends` `Module Federation` `Monorepo` `Design Systems`
+
+### Data & APIs
+`GraphQL` `REST` `Prisma` `MongoDB` `Postgres`
+
+### AI / Advanced
+`RAG` `Pinecone` `LLM APIs` `Prompt Engineering`
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkajitroy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkajitroy&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building **high-performance frontend systems**
+- Exploring **AI-native developer tools**
+- Strengthening **system design & large-scale architecture**
+
+---
+
+## 🤝 Open to
+
+- High-impact engineering roles (Product / Platform)
+- Frontend-heavy fullstack systems
+- Early-stage product engineering challenges
+
+---
+
+<p align="center">
+  ⚡ “Good UI is invisible. Great systems are unforgettable.”
 </p>
