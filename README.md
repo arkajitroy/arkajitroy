@@ -1,3 +1,5 @@
+[![MasterHead](https://enablejavascript.co/wp-content/uploads/2017/01/jstips-header-blog.gif)](https://github.com/arkajitroy)
+
 <h1 align="center">Hi 👋, I'm Arkajit Roy</h1>
 <h3 align="center">Frontend-leaning Fullstack Engineer • Systems Thinker • Performance Obsessed</h3>
 
@@ -28,58 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Turboclient — Real-time API Platform
-> Next.js • WebSockets • Prisma • Zustand • Gemini
-
-- Built collaborative API testing platform with real-time sync
-- AI-powered payload generation using Gemini
-- Multi-environment support + dynamic endpoint configs
-- Designed for developer productivity & speed
-
----
-
-### 🔹 Neuraltrace AI — RAG-based Code Intelligence
-> Next.js • Pinecone • GitHub Webhooks • Inngest
-
-- Context-aware code review system using embeddings
-- Semantic search across repositories
-- Automated indexing via async event pipelines
-- Visual analytics dashboard for repo insights
-
----
-
-### 🔹 Plexhub — AI B2B Communication Platform
-> Next.js • ORPC • Prisma • OpenRouter
-
-- Real-time multi-tenant communication system
-- Threaded messaging + AI summarization
-- Type-safe APIs aligned with OpenAPI
-- Strong auth + workspace isolation
-
----
-
-## 🏗 Experience Highlights
-
-### Software Engineer @ Capital Numbers (2024–Present)
-
-- Built **12+ reusable UI libraries** in monorepo (Stencil + Lerna)
-- Reduced performance bottlenecks by **45%**
-- Led migration from Next.js → SPA React (60% improvement)
-- Implemented **testing, accessibility, and monitoring pipelines** :contentReference[oaicite:1]{index=1}  
-
----
-
-### Software Engineer @ Aeonix (2022–2024)
-
-- Improved UI engagement by **25%**
-- Built real-time dashboards with AG-Grid & D3
-- Designed event-driven backend systems (Node.js)
-- Developed real-time notification systems using WebSockets :contentReference[oaicite:2]{index=2}  
-
----
-
 ## 🧰 Tech Stack
 
 ### Core
@@ -98,12 +48,22 @@
 
 ## 📊 GitHub Insights
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arkajitroy&theme=onedark&margin-w=10&margin-h=10" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arkajitroy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkajitroy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arkajitroy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
